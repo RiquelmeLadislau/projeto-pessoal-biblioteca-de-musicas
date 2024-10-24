@@ -4,10 +4,12 @@ const style = [
     ['2 - pop'],
     ['3 - funk'],
     ['4 - trap'],
-    
+    ['5 - Eletrônica']
+    ['6 - Jazz']
+    ['7 - Forró']
 ]
-let options =''
+let options = ''
 options = prompt(`
-    Selecione seu estilo de musíca 
+    Selecione seu estilo de musíca:
     ${style}
     `)
